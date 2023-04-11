@@ -1,0 +1,9 @@
+id	name	admission_quota	application_quota	min_accepted_year	min_accepted_gpa
+C116	SAP America Inc	2	10	4	3.0
+C560	Westmark  Software Co.	4	20	4	3.0
+C302	Buildxact	6	30	4	2.5
+C179	Evantage Software	4	20	2	3.5
+C890	Macro Mobile Solution	8	40	4	2.5
+C447	Studio Software	8	40	2	2.8
+C101	Hashtag Web Consultants	6	30	4	2.5
+C165	Future Tec Crunch	6	30	2	3.0

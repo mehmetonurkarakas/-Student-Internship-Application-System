@@ -1,0 +1,1333 @@
+Application from Metin Doruk (22054860) to Evantage Software (C179) was registered successfully.
+Application from Metin Doruk (22054860) to Studio Software (C447) was registered successfully.
+Application from Metin Doruk (22054860) to Future Tec Crunch (C165) was registered successfully.
+Application from Metin Doruk (22054860) to Macro Mobile Solution (C890) was failed.
+Application from Fatma Erdinc (21829779) to SAP America Inc (C116) was failed.
+Application from Fatma Erdinc (21829779) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Fatma Erdinc (21829779) to Evantage Software (C179) was failed.
+Application from Fatma Erdinc (21829779) to Buildxact (C302) was registered successfully.
+Application from Fatma Erdinc (21829779) to Westmark  Software Co. (C560) was failed.
+Application from Fatma Erdinc (21829779) to Macro Mobile Solution (C890) was registered successfully.
+Application from Tahir Yumlu (21821940) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Tahir Yumlu (21821940) to Buildxact (C302) was registered successfully.
+Application from Tahir Yumlu (21821940) to Macro Mobile Solution (C890) was registered successfully.
+Application from Tahir Yumlu (21821940) to Studio Software (C447) was registered successfully.
+Application from Tahir Yumlu (21821940) to Westmark  Software Co. (C560) was registered successfully.
+Application from Tahir Yumlu (21821940) to Future Tec Crunch (C165) was failed.
+Application from Derya Boran (21930438) to Hashtag Web Consultants (C101) was failed.
+Application from Derya Boran (21930438) to Evantage Software (C179) was failed.
+Application from Derya Boran (21930438) to Studio Software (C447) was registered successfully.
+Application from Derya Boran (21930438) to Future Tec Crunch (C165) was registered successfully.
+Application from Derya Boran (21930438) to Buildxact (C302) was failed.
+Application from Metin Keskin (21952384) to Macro Mobile Solution (C890) was failed.
+Application from Metin Keskin (21952384) to Studio Software (C447) was registered successfully.
+Application from Metin Keskin (21952384) to Future Tec Crunch (C165) was registered successfully.
+Application from Metin Keskin (21952384) to Buildxact (C302) was failed.
+Application from Erol Turkyilmaz (21989558) to Buildxact (C302) was failed.
+Application from Erol Turkyilmaz (21989558) to Westmark  Software Co. (C560) was failed.
+Application from Erol Turkyilmaz (21989558) to Studio Software (C447) was registered successfully.
+Application from Erol Turkyilmaz (21989558) to SAP America Inc (C116) was failed.
+Application from Deniz Ozbey (22054570) to SAP America Inc (C116) was failed.
+Application from Deniz Ozbey (22054570) to Future Tec Crunch (C165) was registered successfully.
+Application from Deniz Ozbey (22054570) to Hashtag Web Consultants (C101) was failed.
+Application from Deniz Ozbey (22054570) to Buildxact (C302) was failed.
+Application from Deniz Ozbey (22054570) to Studio Software (C447) was registered successfully.
+Application from Fatma Altin (21917567) to Macro Mobile Solution (C890) was failed.
+Application from Fatma Altin (21917567) to Evantage Software (C179) was registered successfully.
+Application from Fatma Altin (21917567) to Future Tec Crunch (C165) was registered successfully.
+Application from Fatma Altin (21917567) to Westmark  Software Co. (C560) was failed.
+Application from Fatma Altin (21917567) to Studio Software (C447) was registered successfully.
+Application from Ferhat Boran (22047546) to Hashtag Web Consultants (C101) was failed.
+Application from Ferhat Boran (22047546) to Evantage Software (C179) was registered successfully.
+Application from Ferhat Boran (22047546) to Studio Software (C447) was registered successfully.
+Application from Ferhat Boran (22047546) to Future Tec Crunch (C165) was registered successfully.
+Application from Ferhat Boran (22047546) to Westmark  Software Co. (C560) was failed.
+Application from Abdulkadir Babaoglu (22023721) to Studio Software (C447) was registered successfully.
+Application from Abdulkadir Babaoglu (22023721) to Future Tec Crunch (C165) was registered successfully.
+Application from Abdulkadir Babaoglu (22023721) to Evantage Software (C179) was registered successfully.
+Application from Abdulkadir Babaoglu (22023721) to Macro Mobile Solution (C890) was failed.
+Application from Sahin Erdogan (21971156) to Studio Software (C447) was registered successfully.
+Application from Sahin Erdogan (21971156) to SAP America Inc (C116) was failed.
+Application from Sahin Erdogan (21971156) to Future Tec Crunch (C165) was registered successfully.
+Application from Sahin Erdogan (21971156) to Buildxact (C302) was failed.
+Application from Tahir Altug (21842990) to SAP America Inc (C116) was failed.
+Application from Tahir Altug (21842990) to Buildxact (C302) was registered successfully.
+Application from Tahir Altug (21842990) to Westmark  Software Co. (C560) was failed.
+Application from Tahir Altug (21842990) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Tahir Altug (21842990) to Macro Mobile Solution (C890) was registered successfully.
+Application from Tahir Altug (21842990) to Studio Software (C447) was registered successfully.
+Application from Erol Kilicli (22098369) to Studio Software (C447) was failed.
+Application from Erol Kilicli (22098369) to Buildxact (C302) was failed.
+Application from Erol Kilicli (22098369) to SAP America Inc (C116) was failed.
+Application from Mustafa Dicle (21820035) to Buildxact (C302) was registered successfully.
+Application from Mustafa Dicle (21820035) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Mustafa Dicle (21820035) to Studio Software (C447) was registered successfully.
+Application from Mustafa Dicle (21820035) to Westmark  Software Co. (C560) was failed.
+Application from Mustafa Dicle (21820035) to Macro Mobile Solution (C890) was registered successfully.
+Application from Mustafa Dicle (21820035) to SAP America Inc (C116) was failed.
+Application from Ayse Parlak (22098379) to Evantage Software (C179) was failed.
+Application from Ayse Parlak (22098379) to Macro Mobile Solution (C890) was failed.
+Application from Ayse Parlak (22098379) to Studio Software (C447) was failed.
+Application from Zekai Aytac (21885074) to Macro Mobile Solution (C890) was registered successfully.
+Application from Zekai Aytac (21885074) to Westmark  Software Co. (C560) was registered successfully.
+Application from Zekai Aytac (21885074) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Zekai Aytac (21885074) to Evantage Software (C179) was registered successfully.
+Application from Zekai Aytac (21885074) to Future Tec Crunch (C165) was registered successfully.
+Application from Zekai Aytac (21885074) to Buildxact (C302) was failed.
+Application from Mehtap Aldemir (21929534) to Studio Software (C447) was failed.
+Application from Mehtap Aldemir (21929534) to Westmark  Software Co. (C560) was failed.
+Application from Mehtap Aldemir (21929534) to SAP America Inc (C116) was failed.
+Application from Mehtap Kilicli (22011387) to Evantage Software (C179) was failed.
+Application from Mehtap Kilicli (22011387) to Studio Software (C447) was registered successfully.
+Application from Mehtap Kilicli (22011387) to Macro Mobile Solution (C890) was failed.
+Application from Mehtap Kilicli (22011387) to Future Tec Crunch (C165) was registered successfully.
+Application from Muhammet Parlak (22080499) to Westmark  Software Co. (C560) was failed.
+Application from Muhammet Parlak (22080499) to Hashtag Web Consultants (C101) was failed.
+Application from Muhammet Parlak (22080499) to Future Tec Crunch (C165) was failed.
+Application from Azad Abasiyanik (21988599) to Westmark  Software Co. (C560) was failed.
+Application from Azad Abasiyanik (21988599) to Evantage Software (C179) was registered successfully.
+Application from Azad Abasiyanik (21988599) to Hashtag Web Consultants (C101) was failed.
+Application from Azad Abasiyanik (21988599) to Future Tec Crunch (C165) was registered successfully.
+Application from Azad Abasiyanik (21988599) to Studio Software (C447) was registered successfully.
+Application from Ozan Dede (21851376) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Ozan Dede (21851376) to Studio Software (C447) was registered successfully.
+Application from Ozan Dede (21851376) to Macro Mobile Solution (C890) was registered successfully.
+Application from Ozan Dede (21851376) to Westmark  Software Co. (C560) was registered successfully.
+Application from Ozan Dede (21851376) to Buildxact (C302) was registered successfully.
+Application from Ozan Dede (21851376) to Evantage Software (C179) was failed.
+Application from Metin Aytac (21931052) to Hashtag Web Consultants (C101) was failed.
+Application from Metin Aytac (21931052) to Future Tec Crunch (C165) was registered successfully.
+Application from Metin Aytac (21931052) to Macro Mobile Solution (C890) was failed.
+Application from Metin Aytac (21931052) to Evantage Software (C179) was failed.
+Application from Metin Aytac (21931052) to Studio Software (C447) was registered successfully.
+Application from Muhammet Zeybek (21924795) to Hashtag Web Consultants (C101) was failed.
+Application from Muhammet Zeybek (21924795) to Westmark  Software Co. (C560) was failed.
+Application from Muhammet Zeybek (21924795) to Future Tec Crunch (C165) was failed.
+Application from Yakup Abasiyanik (22020539) to Future Tec Crunch (C165) was failed.
+Application from Yakup Abasiyanik (22020539) to SAP America Inc (C116) was failed.
+Application from Yakup Abasiyanik (22020539) to Studio Software (C447) was registered successfully.
+Application from Sadi Yilmaz (21837619) to Macro Mobile Solution (C890) was registered successfully.
+Application from Sadi Yilmaz (21837619) to Studio Software (C447) was failed.
+Application from Sadi Yilmaz (21837619) to Buildxact (C302) was registered successfully.
+Application from Sadi Yilmaz (21837619) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Mahir Bayram (22078181) to Macro Mobile Solution (C890) was failed.
+Application from Mahir Bayram (22078181) to Future Tec Crunch (C165) was failed.
+Application from Mahir Bayram (22078181) to Westmark  Software Co. (C560) was failed.
+Application from Osman Kartal (21863860) to Future Tec Crunch (C165) was registered successfully.
+Application from Osman Kartal (21863860) to Buildxact (C302) was registered successfully.
+Application from Osman Kartal (21863860) to SAP America Inc (C116) was registered successfully.
+Application from Osman Kartal (21863860) to Studio Software (C447) was registered successfully.
+Application from Osman Kartal (21863860) to Westmark  Software Co. (C560) was registered successfully.
+Application from Osman Kartal (21863860) to Evantage Software (C179) was failed.
+Application from Fatma Karaman (21913436) to Macro Mobile Solution (C890) was failed.
+Application from Fatma Karaman (21913436) to Future Tec Crunch (C165) was failed.
+Application from Fatma Karaman (21913436) to Hashtag Web Consultants (C101) was failed.
+Application from Aylin Ozyurek (22012504) to Westmark  Software Co. (C560) was failed.
+Application from Aylin Ozyurek (22012504) to Future Tec Crunch (C165) was registered successfully.
+Application from Aylin Ozyurek (22012504) to Studio Software (C447) was registered successfully.
+Application from Ayse Oncel (22012003) to Westmark  Software Co. (C560) was failed.
+Application from Ayse Oncel (22012003) to Studio Software (C447) was registered successfully.
+Application from Ayse Oncel (22012003) to Buildxact (C302) was failed.
+Application from Zeynep Dikmen (21817932) to Macro Mobile Solution (C890) was registered successfully.
+Application from Zeynep Dikmen (21817932) to Westmark  Software Co. (C560) was registered successfully.
+Application from Zeynep Dikmen (21817932) to Studio Software (C447) was registered successfully.
+Application from Zeynep Dikmen (21817932) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Zeynep Dikmen (21817932) to Buildxact (C302) was registered successfully.
+Application from Zeynep Dikmen (21817932) to SAP America Inc (C116) was failed.
+Application from Deniz Saatci (21811853) to Hashtag Web Consultants (C101) was failed.
+Application from Deniz Saatci (21811853) to Westmark  Software Co. (C560) was failed.
+Application from Deniz Saatci (21811853) to Future Tec Crunch (C165) was failed.
+Application from Melis Mehmed (22082180) to Macro Mobile Solution (C890) was failed.
+Application from Melis Mehmed (22082180) to SAP America Inc (C116) was failed.
+Application from Melis Mehmed (22082180) to Studio Software (C447) was registered successfully.
+Application from Melis Mehmed (22082180) to Evantage Software (C179) was registered successfully.
+Application from Melis Mehmed (22082180) to Future Tec Crunch (C165) was registered successfully.
+Application from Erol Gokdemir (21822157) to Future Tec Crunch (C165) was registered successfully.
+Application from Erol Gokdemir (21822157) to Buildxact (C302) was registered successfully.
+Application from Erol Gokdemir (21822157) to Westmark  Software Co. (C560) was registered successfully.
+Application from Erol Gokdemir (21822157) to Studio Software (C447) was registered successfully.
+Application from Erol Gokdemir (21822157) to SAP America Inc (C116) was registered successfully.
+Application from Erol Gokdemir (21822157) to Hashtag Web Consultants (C101) was failed.
+Application from Ecrin Engin (21873073) to Evantage Software (C179) was registered successfully.
+Application from Ecrin Engin (21873073) to SAP America Inc (C116) was registered successfully.
+Application from Ecrin Engin (21873073) to Future Tec Crunch (C165) was registered successfully.
+Application from Ecrin Engin (21873073) to Buildxact (C302) was registered successfully.
+Application from Ecrin Engin (21873073) to Studio Software (C447) was registered successfully.
+Application from Ecrin Engin (21873073) to Westmark  Software Co. (C560) was failed.
+Application from Savas Kizilirmak (21925219) to Studio Software (C447) was registered successfully.
+Application from Savas Kizilirmak (21925219) to Future Tec Crunch (C165) was registered successfully.
+Application from Savas Kizilirmak (21925219) to Evantage Software (C179) was failed.
+Application from Sahin Gokcek (22043698) to Evantage Software (C179) was failed.
+Application from Sahin Gokcek (22043698) to Future Tec Crunch (C165) was registered successfully.
+Application from Sahin Gokcek (22043698) to Macro Mobile Solution (C890) was failed.
+Application from Sahin Gokcek (22043698) to Studio Software (C447) was registered successfully.
+Application from Sadi Oncel (21923252) to Hashtag Web Consultants (C101) was failed.
+Application from Sadi Oncel (21923252) to Studio Software (C447) was registered successfully.
+Application from Sadi Oncel (21923252) to SAP America Inc (C116) was failed.
+Application from Sadi Oncel (21923252) to Future Tec Crunch (C165) was registered successfully.
+Application from Sadi Oncel (21923252) to Evantage Software (C179) was registered successfully.
+Application from Sadi Oncel (21923252) to Buildxact (C302) was failed.
+Application from Abdulkadir Karaman (22043400) to Macro Mobile Solution (C890) was failed.
+Application from Abdulkadir Karaman (22043400) to SAP America Inc (C116) was failed.
+Application from Abdulkadir Karaman (22043400) to Future Tec Crunch (C165) was registered successfully.
+Application from Abdulkadir Karaman (22043400) to Studio Software (C447) was registered successfully.
+Application from Baris Babaoglu (21953464) to Westmark  Software Co. (C560) was failed.
+Application from Baris Babaoglu (21953464) to Evantage Software (C179) was registered successfully.
+Application from Baris Babaoglu (21953464) to Studio Software (C447) was registered successfully.
+Application from Baris Babaoglu (21953464) to Hashtag Web Consultants (C101) was failed.
+Application from Baris Babaoglu (21953464) to SAP America Inc (C116) was failed.
+Application from Baris Babaoglu (21953464) to Future Tec Crunch (C165) was registered successfully.
+Application from Ecrin Yumlu (21854072) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Ecrin Yumlu (21854072) to Macro Mobile Solution (C890) was registered successfully.
+Application from Ecrin Yumlu (21854072) to Future Tec Crunch (C165) was failed.
+Application from Ecrin Yumlu (21854072) to Studio Software (C447) was registered successfully.
+Application from Ecrin Yumlu (21854072) to SAP America Inc (C116) was failed.
+Application from Ecrin Yumlu (21854072) to Buildxact (C302) was registered successfully.
+Application from Enis Ozbey (21998948) to Evantage Software (C179) was registered successfully.
+Application from Enis Ozbey (21998948) to Studio Software (C447) was registered successfully.
+Application from Enis Ozbey (21998948) to Future Tec Crunch (C165) was registered successfully.
+Application from Enis Ozbey (21998948) to Hashtag Web Consultants (C101) was failed.
+Application from Derya Arslan (21955176) to Macro Mobile Solution (C890) was failed.
+Application from Derya Arslan (21955176) to Future Tec Crunch (C165) was failed.
+Application from Derya Arslan (21955176) to Hashtag Web Consultants (C101) was failed.
+Application from Tulay Akyol (21921310) to Macro Mobile Solution (C890) was failed.
+Application from Tulay Akyol (21921310) to Studio Software (C447) was registered successfully.
+Application from Tulay Akyol (21921310) to SAP America Inc (C116) was failed.
+Application from Tulay Akyol (21921310) to Future Tec Crunch (C165) was registered successfully.
+Application from Yakup Durmus (22088079) to Future Tec Crunch (C165) was registered successfully.
+Application from Yakup Durmus (22088079) to Studio Software (C447) was registered successfully.
+Application from Yakup Durmus (22088079) to Macro Mobile Solution (C890) was failed.
+Application from Yakup Durmus (22088079) to Evantage Software (C179) was registered successfully.
+Application from Baris Altug (21868521) to SAP America Inc (C116) was failed.
+Application from Baris Altug (21868521) to Buildxact (C302) was registered successfully.
+Application from Baris Altug (21868521) to Studio Software (C447) was failed.
+Application from Baris Altug (21868521) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Baris Altug (21868521) to Future Tec Crunch (C165) was failed.
+Application from Baris Altug (21868521) to Macro Mobile Solution (C890) was registered successfully.
+Application from Azad Ozbey (21810119) to Westmark  Software Co. (C560) was registered successfully.
+Application from Azad Ozbey (21810119) to SAP America Inc (C116) was registered successfully.
+Application from Azad Ozbey (21810119) to Macro Mobile Solution (C890) was registered successfully.
+Application from Azad Ozbey (21810119) to Evantage Software (C179) was failed.
+Application from Azad Ozbey (21810119) to Future Tec Crunch (C165) was registered successfully.
+Application from Azad Ozbey (21810119) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Azad Ozbey (21810119) to Studio Software (C447) was failed.
+Application from Selim Aydogan (22066595) to Studio Software (C447) was registered successfully.
+Application from Selim Aydogan (22066595) to Hashtag Web Consultants (C101) was failed.
+Application from Selim Aydogan (22066595) to Evantage Software (C179) was registered successfully.
+Application from Selim Aydogan (22066595) to Future Tec Crunch (C165) was registered successfully.
+Application from Erol Mehmed (21956870) to SAP America Inc (C116) was failed.
+Application from Erol Mehmed (21956870) to Macro Mobile Solution (C890) was failed.
+Application from Erol Mehmed (21956870) to Studio Software (C447) was registered successfully.
+Application from Erol Mehmed (21956870) to Evantage Software (C179) was registered successfully.
+Application from Erol Mehmed (21956870) to Buildxact (C302) was failed.
+Application from Erol Mehmed (21956870) to Future Tec Crunch (C165) was registered successfully.
+Application from Metin Yilmaz (21811858) to Future Tec Crunch (C165) was registered successfully.
+Application from Metin Yilmaz (21811858) to Hashtag Web Consultants (C101) was registered successfully.
+Application from Metin Yilmaz (21811858) to Studio Software (C447) was registered successfully.
+Application from Metin Yilmaz (21811858) to Westmark  Software Co. (C560) was registered successfully.
+Application from Metin Yilmaz (21811858) to Buildxact (C302) was registered successfully.
+Application from Metin Yilmaz (21811858) to SAP America Inc (C116) was failed.
+Hashtag Web Consultants (C101) admitted Ozan Dede (21851376).
+Macro Mobile Solution (C890) COULD NOT admit Ozan Dede (21851376).
+Macro Mobile Solution (C890) admitted Zekai Aytac (21885074).
+Hashtag Web Consultants (C101) COULD NOT admit Ozan Dede (21851376).
+Hashtag Web Consultants (C101) admitted Metin Yilmaz (21811858).
+Buildxact (C302) COULD NOT admit Ozan Dede (21851376).
+Buildxact (C302) admitted Tahir Yumlu (21821940).
+Westmark  Software Co. (C560) COULD NOT admit Ozan Dede (21851376).
+Westmark  Software Co. (C560) COULD NOT admit Tahir Yumlu (21821940).
+Westmark  Software Co. (C560) admitted Azad Ozbey (21810119).
+Future Tec Crunch (C165) admitted Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) admitted Baris Babaoglu (21953464).
+Evantage Software (C179) COULD NOT admit Sadi Oncel (21923252).
+Evantage Software (C179) admitted Abdulkadir Babaoglu (22023721).
+Macro Mobile Solution (C890) COULD NOT admit Ozan Dede (21851376).
+Macro Mobile Solution (C890) COULD NOT admit Azad Ozbey (21810119).
+Macro Mobile Solution (C890) admitted Zeynep Dikmen (21817932).
+SAP America Inc (C116) admitted Ecrin Engin (21873073).
+SAP America Inc (C116) COULD NOT admit Ecrin Engin (21873073).
+SAP America Inc (C116) admitted Erol Gokdemir (21822157).
+Macro Mobile Solution (C890) COULD NOT admit Ozan Dede (21851376).
+Macro Mobile Solution (C890) COULD NOT admit Azad Ozbey (21810119).
+Macro Mobile Solution (C890) admitted Mustafa Dicle (21820035).
+Future Tec Crunch (C165) COULD NOT admit Sadi Oncel (21923252).
+Future Tec Crunch (C165) admitted Azad Abasiyanik (21988599).
+Evantage Software (C179) COULD NOT admit Sadi Oncel (21923252).
+Evantage Software (C179) COULD NOT admit Azad Abasiyanik (21988599).
+Evantage Software (C179) admitted Selim Aydogan (22066595).
+Future Tec Crunch (C165) COULD NOT admit Sadi Oncel (21923252).
+Future Tec Crunch (C165) COULD NOT admit Azad Abasiyanik (21988599).
+Future Tec Crunch (C165) admitted Erol Mehmed (21956870).
+Westmark  Software Co. (C560) COULD NOT admit Ozan Dede (21851376).
+Westmark  Software Co. (C560) COULD NOT admit Tahir Yumlu (21821940).
+Westmark  Software Co. (C560) COULD NOT admit Erol Gokdemir (21822157).
+Westmark  Software Co. (C560) admitted Osman Kartal (21863860).
+Westmark  Software Co. (C560) COULD NOT admit Ozan Dede (21851376).
+Westmark  Software Co. (C560) COULD NOT admit Tahir Yumlu (21821940).
+Westmark  Software Co. (C560) COULD NOT admit Erol Gokdemir (21822157).
+Evantage Software (C179) COULD NOT admit Sadi Oncel (21923252).
+Evantage Software (C179) COULD NOT admit Azad Abasiyanik (21988599).
+Evantage Software (C179) COULD NOT admit Zekai Aytac (21885074).
+Evantage Software (C179) admitted Ferhat Boran (22047546).
+Hashtag Web Consultants (C101) COULD NOT admit Ozan Dede (21851376).
+Hashtag Web Consultants (C101) COULD NOT admit Tahir Yumlu (21821940).
+Hashtag Web Consultants (C101) COULD NOT admit Mustafa Dicle (21820035).
+Hashtag Web Consultants (C101) admitted Tahir Altug (21842990).
+Hashtag Web Consultants (C101) COULD NOT admit Ozan Dede (21851376).
+Hashtag Web Consultants (C101) COULD NOT admit Tahir Yumlu (21821940).
+Hashtag Web Consultants (C101) COULD NOT admit Mustafa Dicle (21820035).
+Hashtag Web Consultants (C101) admitted Ecrin Yumlu (21854072).
+Buildxact (C302) COULD NOT admit Ozan Dede (21851376).
+Buildxact (C302) COULD NOT admit Ecrin Engin (21873073).
+Buildxact (C302) COULD NOT admit Osman Kartal (21863860).
+Buildxact (C302) COULD NOT admit Tahir Altug (21842990).
+Buildxact (C302) admitted Fatma Erdinc (21829779).
+Hashtag Web Consultants (C101) COULD NOT admit Ozan Dede (21851376).
+Hashtag Web Consultants (C101) COULD NOT admit Tahir Yumlu (21821940).
+Hashtag Web Consultants (C101) COULD NOT admit Mustafa Dicle (21820035).
+Hashtag Web Consultants (C101) COULD NOT admit Fatma Erdinc (21829779).
+Hashtag Web Consultants (C101) admitted Sadi Yilmaz (21837619).
+Evantage Software (C179) COULD NOT admit Sadi Oncel (21923252).
+Evantage Software (C179) COULD NOT admit Azad Abasiyanik (21988599).
+Evantage Software (C179) COULD NOT admit Zekai Aytac (21885074).
+Evantage Software (C179) admitted Fatma Altin (21917567).
+Hashtag Web Consultants (C101) COULD NOT admit Ozan Dede (21851376).
+Hashtag Web Consultants (C101) COULD NOT admit Tahir Yumlu (21821940).
+Hashtag Web Consultants (C101) COULD NOT admit Mustafa Dicle (21820035).
+Hashtag Web Consultants (C101) COULD NOT admit Fatma Erdinc (21829779).
+Hashtag Web Consultants (C101) admitted Baris Altug (21868521).
+Buildxact (C302) COULD NOT admit Ozan Dede (21851376).
+Buildxact (C302) COULD NOT admit Ecrin Engin (21873073).
+Buildxact (C302) COULD NOT admit Osman Kartal (21863860).
+Buildxact (C302) COULD NOT admit Tahir Altug (21842990).
+Buildxact (C302) COULD NOT admit Baris Altug (21868521).
+Future Tec Crunch (C165) COULD NOT admit Sadi Oncel (21923252).
+Future Tec Crunch (C165) COULD NOT admit Azad Abasiyanik (21988599).
+Future Tec Crunch (C165) COULD NOT admit Erol Mehmed (21956870).
+Future Tec Crunch (C165) COULD NOT admit Fatma Altin (21917567).
+Future Tec Crunch (C165) admitted Yakup Durmus (22088079).
+Future Tec Crunch (C165) COULD NOT admit Sadi Oncel (21923252).
+Future Tec Crunch (C165) COULD NOT admit Azad Abasiyanik (21988599).
+Future Tec Crunch (C165) COULD NOT admit Erol Mehmed (21956870).
+Future Tec Crunch (C165) COULD NOT admit Fatma Altin (21917567).
+Future Tec Crunch (C165) admitted Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) admitted Metin Doruk (22054860).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) admitted Enis Ozbey (21998948).
+Future Tec Crunch (C165) COULD NOT admit Sadi Oncel (21923252).
+Future Tec Crunch (C165) COULD NOT admit Azad Abasiyanik (21988599).
+Future Tec Crunch (C165) COULD NOT admit Erol Mehmed (21956870).
+Future Tec Crunch (C165) COULD NOT admit Fatma Altin (21917567).
+Future Tec Crunch (C165) COULD NOT admit Ecrin Engin (21873073).
+Future Tec Crunch (C165) admitted Metin Aytac (21931052).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Enis Ozbey (21998948).
+Studio Software (C447) admitted Sahin Gokcek (22043698).
+Macro Mobile Solution (C890) COULD NOT admit Ozan Dede (21851376).
+Macro Mobile Solution (C890) COULD NOT admit Azad Ozbey (21810119).
+Macro Mobile Solution (C890) COULD NOT admit Ecrin Yumlu (21854072).
+Macro Mobile Solution (C890) COULD NOT admit Sadi Yilmaz (21837619).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Enis Ozbey (21998948).
+Studio Software (C447) admitted Savas Kizilirmak (21925219).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Enis Ozbey (21998948).
+Studio Software (C447) COULD NOT admit Savas Kizilirmak (21925219).
+Studio Software (C447) admitted Mehtap Kilicli (22011387).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Enis Ozbey (21998948).
+Studio Software (C447) COULD NOT admit Savas Kizilirmak (21925219).
+Studio Software (C447) admitted Metin Keskin (21952384).
+Studio Software (C447) COULD NOT admit Sadi Oncel (21923252).
+Studio Software (C447) COULD NOT admit Azad Abasiyanik (21988599).
+Studio Software (C447) COULD NOT admit Metin Yilmaz (21811858).
+Studio Software (C447) COULD NOT admit Tahir Yumlu (21821940).
+Studio Software (C447) COULD NOT admit Melis Mehmed (22082180).
+Studio Software (C447) COULD NOT admit Enis Ozbey (21998948).
+Studio Software (C447) COULD NOT admit Savas Kizilirmak (21925219).
+Studio Software (C447) COULD NOT admit Metin Keskin (21952384).
+Studio Software (C447) admitted Tulay Akyol (21921310).
+
+### START OF COMPANY INFO ###
+SAP America Inc (C116):
+Min. Accepted GPA: 3.00
+Min. Accepted Year: 4
+Applications: 4/10
+Admissions: 2/2
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+
+Applied Students:
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Westmark  Software Co. (C560):
+Min. Accepted GPA: 3.00
+Min. Accepted Year: 4
+Applications: 8/20
+Admissions: 2/4
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+
+Applied Students:
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Buildxact (C302):
+Min. Accepted GPA: 2.50
+Min. Accepted Year: 4
+Applications: 13/30
+Admissions: 2/6
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Fatma Erdinc (21829779) - Year: 4, GPA: 2.79
+
+Applied Students:
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+Fatma Erdinc (21829779) - Year: 4, GPA: 2.79
+Sadi Yilmaz (21837619) - Year: 4, GPA: 2.75
+Baris Altug (21868521) - Year: 4, GPA: 2.74
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Evantage Software (C179):
+Min. Accepted GPA: 3.50
+Min. Accepted Year: 2
+Applications: 14/20
+Admissions: 4/4
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Abdulkadir Babaoglu (22023721) - Year: 2, GPA: 3.86
+Selim Aydogan (22066595) - Year: 2, GPA: 3.79
+Ferhat Boran (22047546) - Year: 2, GPA: 3.65
+Fatma Altin (21917567) - Year: 3, GPA: 3.63
+
+Applied Students:
+Sadi Oncel (21923252) - Year: 3, GPA: 3.93
+Baris Babaoglu (21953464) - Year: 3, GPA: 3.89
+Abdulkadir Babaoglu (22023721) - Year: 2, GPA: 3.86
+Azad Abasiyanik (21988599) - Year: 3, GPA: 3.82
+Selim Aydogan (22066595) - Year: 2, GPA: 3.79
+Erol Mehmed (21956870) - Year: 3, GPA: 3.70
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Ferhat Boran (22047546) - Year: 2, GPA: 3.65
+Fatma Altin (21917567) - Year: 3, GPA: 3.63
+Yakup Durmus (22088079) - Year: 2, GPA: 3.63
+Melis Mehmed (22082180) - Year: 2, GPA: 3.62
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Metin Doruk (22054860) - Year: 2, GPA: 3.57
+Enis Ozbey (21998948) - Year: 3, GPA: 3.51
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Macro Mobile Solution (C890):
+Min. Accepted GPA: 2.50
+Min. Accepted Year: 4
+Applications: 11/40
+Admissions: 3/8
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+
+Applied Students:
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+Fatma Erdinc (21829779) - Year: 4, GPA: 2.79
+Sadi Yilmaz (21837619) - Year: 4, GPA: 2.75
+Baris Altug (21868521) - Year: 4, GPA: 2.74
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Studio Software (C447):
+Min. Accepted GPA: 2.80
+Min. Accepted Year: 2
+Applications: 36/40
+Admissions: 8/8
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Baris Babaoglu (21953464) - Year: 3, GPA: 3.89
+Metin Doruk (22054860) - Year: 2, GPA: 3.57
+Enis Ozbey (21998948) - Year: 3, GPA: 3.51
+Sahin Gokcek (22043698) - Year: 2, GPA: 3.38
+Savas Kizilirmak (21925219) - Year: 3, GPA: 3.37
+Mehtap Kilicli (22011387) - Year: 2, GPA: 3.30
+Metin Keskin (21952384) - Year: 3, GPA: 3.19
+Tulay Akyol (21921310) - Year: 3, GPA: 3.13
+
+Applied Students:
+Sadi Oncel (21923252) - Year: 3, GPA: 3.93
+Baris Babaoglu (21953464) - Year: 3, GPA: 3.89
+Abdulkadir Babaoglu (22023721) - Year: 2, GPA: 3.86
+Azad Abasiyanik (21988599) - Year: 3, GPA: 3.82
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Selim Aydogan (22066595) - Year: 2, GPA: 3.79
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Erol Mehmed (21956870) - Year: 3, GPA: 3.70
+Ferhat Boran (22047546) - Year: 2, GPA: 3.65
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Fatma Altin (21917567) - Year: 3, GPA: 3.63
+Yakup Durmus (22088079) - Year: 2, GPA: 3.63
+Melis Mehmed (22082180) - Year: 2, GPA: 3.62
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Metin Doruk (22054860) - Year: 2, GPA: 3.57
+Enis Ozbey (21998948) - Year: 3, GPA: 3.51
+Metin Aytac (21931052) - Year: 3, GPA: 3.48
+Sahin Gokcek (22043698) - Year: 2, GPA: 3.38
+Savas Kizilirmak (21925219) - Year: 3, GPA: 3.37
+Mehtap Kilicli (22011387) - Year: 2, GPA: 3.30
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Metin Keskin (21952384) - Year: 3, GPA: 3.19
+Sahin Erdogan (21971156) - Year: 3, GPA: 3.13
+Tulay Akyol (21921310) - Year: 3, GPA: 3.13
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+Deniz Ozbey (22054570) - Year: 2, GPA: 3.04
+Derya Boran (21930438) - Year: 3, GPA: 3.02
+Aylin Ozyurek (22012504) - Year: 2, GPA: 3.02
+Abdulkadir Karaman (22043400) - Year: 2, GPA: 3.02
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+Yakup Abasiyanik (22020539) - Year: 2, GPA: 2.89
+Erol Turkyilmaz (21989558) - Year: 3, GPA: 2.85
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+Ayse Oncel (22012003) - Year: 2, GPA: 2.83
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Hashtag Web Consultants (C101):
+Min. Accepted GPA: 2.50
+Min. Accepted Year: 4
+Applications: 12/30
+Admissions: 6/6
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+Sadi Yilmaz (21837619) - Year: 4, GPA: 2.75
+Baris Altug (21868521) - Year: 4, GPA: 2.74
+
+Applied Students:
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+Fatma Erdinc (21829779) - Year: 4, GPA: 2.79
+Sadi Yilmaz (21837619) - Year: 4, GPA: 2.75
+Baris Altug (21868521) - Year: 4, GPA: 2.74
+### END OF COMPANY APPLICATIONS ###
+
+### START OF COMPANY INFO ###
+Future Tec Crunch (C165):
+Min. Accepted GPA: 3.00
+Min. Accepted Year: 2
+Applications: 29/30
+Admissions: 6/6
+### END OF COMPANY INFO ###
+
+### START OF COMPANY APPLICATIONS ###
+Admitted Students:
+Sadi Oncel (21923252) - Year: 3, GPA: 3.93
+Azad Abasiyanik (21988599) - Year: 3, GPA: 3.82
+Erol Mehmed (21956870) - Year: 3, GPA: 3.70
+Yakup Durmus (22088079) - Year: 2, GPA: 3.63
+Melis Mehmed (22082180) - Year: 2, GPA: 3.62
+Metin Aytac (21931052) - Year: 3, GPA: 3.48
+
+Applied Students:
+Sadi Oncel (21923252) - Year: 3, GPA: 3.93
+Baris Babaoglu (21953464) - Year: 3, GPA: 3.89
+Abdulkadir Babaoglu (22023721) - Year: 2, GPA: 3.86
+Azad Abasiyanik (21988599) - Year: 3, GPA: 3.82
+Selim Aydogan (22066595) - Year: 2, GPA: 3.79
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+Erol Mehmed (21956870) - Year: 3, GPA: 3.70
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+Ferhat Boran (22047546) - Year: 2, GPA: 3.65
+Fatma Altin (21917567) - Year: 3, GPA: 3.63
+Yakup Durmus (22088079) - Year: 2, GPA: 3.63
+Melis Mehmed (22082180) - Year: 2, GPA: 3.62
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+Metin Doruk (22054860) - Year: 2, GPA: 3.57
+Enis Ozbey (21998948) - Year: 3, GPA: 3.51
+Metin Aytac (21931052) - Year: 3, GPA: 3.48
+Sahin Gokcek (22043698) - Year: 2, GPA: 3.38
+Savas Kizilirmak (21925219) - Year: 3, GPA: 3.37
+Mehtap Kilicli (22011387) - Year: 2, GPA: 3.30
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+Metin Keskin (21952384) - Year: 3, GPA: 3.19
+Sahin Erdogan (21971156) - Year: 3, GPA: 3.13
+Tulay Akyol (21921310) - Year: 3, GPA: 3.13
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+Deniz Ozbey (22054570) - Year: 2, GPA: 3.04
+Derya Boran (21930438) - Year: 3, GPA: 3.02
+Aylin Ozyurek (22012504) - Year: 2, GPA: 3.02
+Abdulkadir Karaman (22043400) - Year: 2, GPA: 3.02
+### END OF COMPANY APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Metin Doruk (22054860) - Year: 2, GPA: 3.57
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Evantage Software (C179)
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Fatma Erdinc (21829779) - Year: 4, GPA: 2.79
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Buildxact (C302)
+
+Applied Companies:
+Hashtag Web Consultants (C101)
+Buildxact (C302)
+Macro Mobile Solution (C890)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Tahir Yumlu (21821940) - Year: 4, GPA: 3.64
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Buildxact (C302)
+
+Applied Companies:
+Hashtag Web Consultants (C101)
+Buildxact (C302)
+Macro Mobile Solution (C890)
+Studio Software (C447)
+Westmark  Software Co. (C560)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Derya Boran (21930438) - Year: 3, GPA: 3.02
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Metin Keskin (21952384) - Year: 3, GPA: 3.19
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Erol Turkyilmaz (21989558) - Year: 3, GPA: 2.85
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Deniz Ozbey (22054570) - Year: 2, GPA: 3.04
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Fatma Altin (21917567) - Year: 3, GPA: 3.63
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Evantage Software (C179)
+
+Applied Companies:
+Evantage Software (C179)
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ferhat Boran (22047546) - Year: 2, GPA: 3.65
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Evantage Software (C179)
+
+Applied Companies:
+Evantage Software (C179)
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Abdulkadir Babaoglu (22023721) - Year: 2, GPA: 3.86
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Evantage Software (C179)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+Evantage Software (C179)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Sahin Erdogan (21971156) - Year: 3, GPA: 3.13
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Tahir Altug (21842990) - Year: 4, GPA: 2.84
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Buildxact (C302)
+Hashtag Web Consultants (C101)
+Macro Mobile Solution (C890)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Erol Kilicli (22098369) - Year: 2, GPA: 2.57
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Mustafa Dicle (21820035) - Year: 4, GPA: 2.92
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Macro Mobile Solution (C890)
+
+Applied Companies:
+Buildxact (C302)
+Hashtag Web Consultants (C101)
+Studio Software (C447)
+Macro Mobile Solution (C890)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ayse Parlak (22098379) - Year: 2, GPA: 2.52
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Zekai Aytac (21885074) - Year: 4, GPA: 3.68
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Macro Mobile Solution (C890)
+
+Applied Companies:
+Macro Mobile Solution (C890)
+Westmark  Software Co. (C560)
+Hashtag Web Consultants (C101)
+Evantage Software (C179)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Mehtap Aldemir (21929534) - Year: 3, GPA: 2.72
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Mehtap Kilicli (22011387) - Year: 2, GPA: 3.30
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Muhammet Parlak (22080499) - Year: 2, GPA: 2.48
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Azad Abasiyanik (21988599) - Year: 3, GPA: 3.82
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Evantage Software (C179)
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ozan Dede (21851376) - Year: 4, GPA: 3.80
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Hashtag Web Consultants (C101)
+Studio Software (C447)
+Macro Mobile Solution (C890)
+Westmark  Software Co. (C560)
+Buildxact (C302)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Metin Aytac (21931052) - Year: 3, GPA: 3.48
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Muhammet Zeybek (21924795) - Year: 3, GPA: 2.24
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Yakup Abasiyanik (22020539) - Year: 2, GPA: 2.89
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Sadi Yilmaz (21837619) - Year: 4, GPA: 2.75
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Macro Mobile Solution (C890)
+Buildxact (C302)
+Hashtag Web Consultants (C101)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Mahir Bayram (22078181) - Year: 2, GPA: 2.46
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Osman Kartal (21863860) - Year: 4, GPA: 3.05
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Westmark  Software Co. (C560)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Buildxact (C302)
+SAP America Inc (C116)
+Studio Software (C447)
+Westmark  Software Co. (C560)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Fatma Karaman (21913436) - Year: 3, GPA: 2.34
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Aylin Ozyurek (22012504) - Year: 2, GPA: 3.02
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ayse Oncel (22012003) - Year: 2, GPA: 2.83
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Zeynep Dikmen (21817932) - Year: 4, GPA: 3.27
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Macro Mobile Solution (C890)
+
+Applied Companies:
+Macro Mobile Solution (C890)
+Westmark  Software Co. (C560)
+Studio Software (C447)
+Hashtag Web Consultants (C101)
+Buildxact (C302)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Deniz Saatci (21811853) - Year: 4, GPA: 2.25
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Melis Mehmed (22082180) - Year: 2, GPA: 3.62
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Studio Software (C447)
+Evantage Software (C179)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Erol Gokdemir (21822157) - Year: 4, GPA: 3.05
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+SAP America Inc (C116)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Buildxact (C302)
+Westmark  Software Co. (C560)
+Studio Software (C447)
+SAP America Inc (C116)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ecrin Engin (21873073) - Year: 4, GPA: 3.58
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+SAP America Inc (C116)
+
+Applied Companies:
+Evantage Software (C179)
+SAP America Inc (C116)
+Future Tec Crunch (C165)
+Buildxact (C302)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Savas Kizilirmak (21925219) - Year: 3, GPA: 3.37
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Sahin Gokcek (22043698) - Year: 2, GPA: 3.38
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Sadi Oncel (21923252) - Year: 3, GPA: 3.93
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+Evantage Software (C179)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Abdulkadir Karaman (22043400) - Year: 2, GPA: 3.02
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Baris Babaoglu (21953464) - Year: 3, GPA: 3.89
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Evantage Software (C179)
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Ecrin Yumlu (21854072) - Year: 4, GPA: 2.84
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Hashtag Web Consultants (C101)
+Macro Mobile Solution (C890)
+Studio Software (C447)
+Buildxact (C302)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Enis Ozbey (21998948) - Year: 3, GPA: 3.51
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Evantage Software (C179)
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Derya Arslan (21955176) - Year: 3, GPA: 2.40
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+None
+
+Applied Companies:
+None
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Tulay Akyol (21921310) - Year: 3, GPA: 3.13
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Studio Software (C447)
+
+Applied Companies:
+Studio Software (C447)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Yakup Durmus (22088079) - Year: 2, GPA: 3.63
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Studio Software (C447)
+Evantage Software (C179)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Baris Altug (21868521) - Year: 4, GPA: 2.74
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Buildxact (C302)
+Hashtag Web Consultants (C101)
+Macro Mobile Solution (C890)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Azad Ozbey (21810119) - Year: 4, GPA: 3.29
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Westmark  Software Co. (C560)
+
+Applied Companies:
+Westmark  Software Co. (C560)
+SAP America Inc (C116)
+Macro Mobile Solution (C890)
+Future Tec Crunch (C165)
+Hashtag Web Consultants (C101)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Selim Aydogan (22066595) - Year: 2, GPA: 3.79
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Evantage Software (C179)
+
+Applied Companies:
+Studio Software (C447)
+Evantage Software (C179)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Erol Mehmed (21956870) - Year: 3, GPA: 3.70
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Future Tec Crunch (C165)
+
+Applied Companies:
+Studio Software (C447)
+Evantage Software (C179)
+Future Tec Crunch (C165)
+### END OF STUDENT APPLICATIONS ###
+
+### START OF STUDENT INFO ###
+Metin Yilmaz (21811858) - Year: 4, GPA: 3.70
+### END OF STUDENT INFO ###
+
+### START OF STUDENT APPLICATIONS ###
+Admitted Company:
+Hashtag Web Consultants (C101)
+
+Applied Companies:
+Future Tec Crunch (C165)
+Hashtag Web Consultants (C101)
+Studio Software (C447)
+Westmark  Software Co. (C560)
+Buildxact (C302)
+### END OF STUDENT APPLICATIONS ###
